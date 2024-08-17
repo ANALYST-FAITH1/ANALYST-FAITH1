@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ANALYST-FAITH1
+- 👋 Hi, I’m @faithoyatomi
 - 👀 I’m interested in refining data to solve business problems
 - 🌱 I’m currently learning SQL,PYTHON
 - 💞️ You can review my projects on here
